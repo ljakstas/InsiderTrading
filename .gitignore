@@ -1,0 +1,4 @@
+# Ignore specific files
+data/Micro-Small stocks.csv
+data/SENS JSON.json
+data/submissions.zip
